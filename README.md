@@ -1,1 +1,1 @@
-### This repo holds all projects associated with Codecademy's computer science course path. 
+### This repo holds all of my projects associated with Codecademy's computer science course path. 
