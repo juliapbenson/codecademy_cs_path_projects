@@ -1,1 +1,1 @@
-# codecademy_cs_path_projects
+### This repo holds all projects associated with Codecademy's computer science course path. 
