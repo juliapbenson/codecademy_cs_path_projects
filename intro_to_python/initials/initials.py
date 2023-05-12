@@ -1,6 +1,4 @@
-# First name = Julia
-# Last name = Benson
-# Fun fact = I'm learning to code!
+# Project Description: Use Python to print out my initials in the ASCII art style. Link to Wikipedia article on ASCII art here: https://en.wikipedia.org/wiki/ASCII_art
 
 first_initial = "J"
 
